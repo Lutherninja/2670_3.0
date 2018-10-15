@@ -1,6 +1,6 @@
 //Maya ASCII 2018 scene
 //Name: Aspentrees.ma
-//Last modified: Mon, Oct 15, 2018 02:43:24 PM
+//Last modified: Mon, Oct 15, 2018 04:44:56 PM
 //Codeset: 1252
 requires maya "2018";
 currentUnit -l centimeter -a degree -t film;
@@ -13,13 +13,13 @@ fileInfo "license" "student";
 createNode transform -s -n "persp";
 	rename -uid "5EBAF383-47CA-59E0-F2DA-F6A201533643";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 13.049048129480095 25.42475791045398 79.459998125098735 ;
+	setAttr ".t" -type "double3" 14.22877369991582 26.845389795146072 91.074179967119036 ;
 	setAttr ".r" -type "double3" -6.9383528078238168 -1434.2000000001249 4.9951885142451574e-17 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "9C0B62E3-490A-FB7D-E3CF-AAB9C61A19B7";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999993;
-	setAttr ".coi" 71.933742077944274;
+	setAttr ".coi" 83.693808711805644;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";

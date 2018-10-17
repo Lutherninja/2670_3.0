@@ -29,43 +29,43 @@
       <file leaf-file-name="DeathZone.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DeathZone.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="136">
               <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
               <folding>
-                <marker date="1539806355953" expanded="true" signature="6:285" ph="..." />
-                <marker date="1539806355953" expanded="true" signature="360:428" ph="{...}" />
-                <marker date="1539806355953" expanded="true" signature="408:426" ph="{...}" />
+                <marker date="1539808150330" expanded="false" signature="6:285" ph="..." />
+                <marker date="1539808150330" expanded="true" signature="360:428" ph="{...}" />
+                <marker date="1539808150330" expanded="true" signature="408:426" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MovePattern.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MovePattern.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovePattern.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            <state relative-caret-position="714">
+              <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
               <folding>
-                <marker date="1539807819604" expanded="true" signature="20:162" ph="/* if controller is not grounded press space to move forward. ... */" />
-                <marker date="1539807819604" expanded="true" signature="224:1033" ph="{...}" />
-                <marker date="1539807819604" expanded="true" signature="510:603" ph="{...}" />
-                <marker date="1539807819604" expanded="true" signature="545:573" ph="{...}" />
-                <marker date="1539807819604" expanded="true" signature="659:769" ph="{...}" />
-                <marker date="1539807819604" expanded="true" signature="812:1031" ph="{...}" />
+                <marker date="1539820057816" expanded="true" signature="20:162" ph="/* if controller is not grounded press space to move forward. ... */" />
+                <marker date="1539820057816" expanded="true" signature="224:1034" ph="{...}" />
+                <marker date="1539820057816" expanded="true" signature="510:603" ph="{...}" />
+                <marker date="1539820057816" expanded="true" signature="545:573" ph="{...}" />
+                <marker date="1539820057816" expanded="true" signature="659:769" ph="{...}" />
+                <marker date="1539820057816" expanded="true" signature="812:1032" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MovePatternNotGrounded.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MovePatternNotGrounded.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovePatternNotGrounded.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="204">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
               <folding>
-                <marker date="1539807918269" expanded="false" signature="6:121" ph="..." />
-                <marker date="1539807918269" expanded="true" signature="228:376" ph="{...}" />
-                <marker date="1539807918269" expanded="true" signature="318:372" ph="{...}" />
+                <marker date="1539808150335" expanded="false" signature="6:121" ph="..." />
+                <marker date="1539808150335" expanded="true" signature="228:376" ph="{...}" />
+                <marker date="1539808150335" expanded="true" signature="318:372" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -77,8 +77,8 @@
             <state relative-caret-position="119">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
-                <marker date="1539632973486" expanded="false" signature="6:78" ph="..." />
-                <marker date="1539632973486" expanded="true" signature="188:225" ph="{...}" />
+                <marker date="1539808150335" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539808150335" expanded="true" signature="188:225" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -90,25 +90,25 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Objects.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovePatternNotGrounded.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovePattern.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DeathZone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovePattern.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovePatternNotGrounded.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Objects.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Objects.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DeathZone.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MovePattern.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MovePatternNotGrounded.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovePattern.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="192" />
-    <option name="y" value="99" />
+    <option name="x" value="201" />
+    <option name="y" value="132" />
     <option name="width" value="1440" />
     <option name="height" value="780" />
   </component>
@@ -118,7 +118,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -131,10 +134,7 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-file-system" value="false" />
-        <option name="show-all-items" value="false" />
-      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,11 +174,12 @@
       <workItem from="1539050857974" duration="1595000" />
       <workItem from="1539632826868" duration="425000" />
       <workItem from="1539805132369" duration="2888000" />
+      <workItem from="1539817899136" duration="1028000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8015000" />
+    <option name="totallyTimeSpent" value="9043000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -190,21 +191,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="192" y="99" width="1440" height="780" extended-state="0" />
+    <frame x="201" y="132" width="1440" height="780" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26449275" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26811594" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -223,6 +224,69 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding>
+            <marker date="1539019452485" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539019452485" expanded="true" signature="176:402" ph="{...}" />
+            <marker date="1539019452485" expanded="true" signature="279:337" ph="{...}" />
+            <marker date="1539019452485" expanded="true" signature="353:400" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DeathZone.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <marker date="1539808150330" expanded="false" signature="6:285" ph="..." />
+            <marker date="1539808150330" expanded="true" signature="360:428" ph="{...}" />
+            <marker date="1539808150330" expanded="true" signature="408:426" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovePattern.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding>
+            <marker date="1539820057816" expanded="true" signature="20:162" ph="/* if controller is not grounded press space to move forward. ... */" />
+            <marker date="1539820057816" expanded="true" signature="224:1034" ph="{...}" />
+            <marker date="1539820057816" expanded="true" signature="510:603" ph="{...}" />
+            <marker date="1539820057816" expanded="true" signature="545:573" ph="{...}" />
+            <marker date="1539820057816" expanded="true" signature="659:769" ph="{...}" />
+            <marker date="1539820057816" expanded="true" signature="812:1032" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Objects.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1539808150335" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539808150335" expanded="true" signature="188:225" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovePatternNotGrounded.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <marker date="1539808150335" expanded="false" signature="6:121" ph="..." />
+            <marker date="1539808150335" expanded="true" signature="228:376" ph="{...}" />
+            <marker date="1539808150335" expanded="true" signature="318:372" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
@@ -239,9 +303,9 @@
         <state relative-caret-position="408">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
-            <marker date="1539806355953" expanded="true" signature="6:285" ph="..." />
-            <marker date="1539806355953" expanded="true" signature="360:428" ph="{...}" />
-            <marker date="1539806355953" expanded="true" signature="408:426" ph="{...}" />
+            <marker date="1539808150330" expanded="false" signature="6:285" ph="..." />
+            <marker date="1539808150330" expanded="true" signature="360:428" ph="{...}" />
+            <marker date="1539808150330" expanded="true" signature="408:426" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -251,8 +315,8 @@
         <state relative-caret-position="119">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
-            <marker date="1539632973486" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539632973486" expanded="true" signature="188:225" ph="{...}" />
+            <marker date="1539808150335" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539808150335" expanded="true" signature="188:225" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -262,12 +326,12 @@
         <state relative-caret-position="510">
           <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
           <folding>
-            <marker date="1539807819604" expanded="true" signature="20:162" ph="/* if controller is not grounded press space to move forward. ... */" />
-            <marker date="1539807819604" expanded="true" signature="224:1033" ph="{...}" />
-            <marker date="1539807819604" expanded="true" signature="510:603" ph="{...}" />
-            <marker date="1539807819604" expanded="true" signature="545:573" ph="{...}" />
-            <marker date="1539807819604" expanded="true" signature="659:769" ph="{...}" />
-            <marker date="1539807819604" expanded="true" signature="812:1031" ph="{...}" />
+            <marker date="1539820057816" expanded="true" signature="20:162" ph="/* if controller is not grounded press space to move forward. ... */" />
+            <marker date="1539820057816" expanded="true" signature="224:1034" ph="{...}" />
+            <marker date="1539820057816" expanded="true" signature="510:603" ph="{...}" />
+            <marker date="1539820057816" expanded="true" signature="545:573" ph="{...}" />
+            <marker date="1539820057816" expanded="true" signature="659:769" ph="{...}" />
+            <marker date="1539820057816" expanded="true" signature="812:1032" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -328,25 +392,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DeathZone.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <marker date="1539808150330" expanded="false" signature="6:285" ph="..." />
+            <marker date="1539808150330" expanded="true" signature="360:428" ph="{...}" />
+            <marker date="1539808150330" expanded="true" signature="408:426" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Objects.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
-            <marker date="1539632973486" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539632973486" expanded="true" signature="188:225" ph="{...}" />
+            <marker date="1539808150335" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539808150335" expanded="true" signature="188:225" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DeathZone.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovePatternNotGrounded.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        <state relative-caret-position="204">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
           <folding>
-            <marker date="1539806355953" expanded="true" signature="6:285" ph="..." />
-            <marker date="1539806355953" expanded="true" signature="360:428" ph="{...}" />
-            <marker date="1539806355953" expanded="true" signature="408:426" ph="{...}" />
+            <marker date="1539808150335" expanded="false" signature="6:121" ph="..." />
+            <marker date="1539808150335" expanded="true" signature="228:376" ph="{...}" />
+            <marker date="1539808150335" expanded="true" signature="318:372" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -366,27 +442,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovePattern.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        <state relative-caret-position="714">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
           <folding>
-            <marker date="1539807819604" expanded="true" signature="20:162" ph="/* if controller is not grounded press space to move forward. ... */" />
-            <marker date="1539807819604" expanded="true" signature="224:1033" ph="{...}" />
-            <marker date="1539807819604" expanded="true" signature="510:603" ph="{...}" />
-            <marker date="1539807819604" expanded="true" signature="545:573" ph="{...}" />
-            <marker date="1539807819604" expanded="true" signature="659:769" ph="{...}" />
-            <marker date="1539807819604" expanded="true" signature="812:1031" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovePatternNotGrounded.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <marker date="1539807918269" expanded="false" signature="6:121" ph="..." />
-            <marker date="1539807918269" expanded="true" signature="228:376" ph="{...}" />
-            <marker date="1539807918269" expanded="true" signature="318:372" ph="{...}" />
+            <marker date="1539820057816" expanded="true" signature="20:162" ph="/* if controller is not grounded press space to move forward. ... */" />
+            <marker date="1539820057816" expanded="true" signature="224:1034" ph="{...}" />
+            <marker date="1539820057816" expanded="true" signature="510:603" ph="{...}" />
+            <marker date="1539820057816" expanded="true" signature="545:573" ph="{...}" />
+            <marker date="1539820057816" expanded="true" signature="659:769" ph="{...}" />
+            <marker date="1539820057816" expanded="true" signature="812:1032" ph="{...}" />
           </folding>
         </state>
       </provider>

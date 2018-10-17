@@ -36,7 +36,7 @@ public class MovePattern : ScriptableObject
 
 	protected void Move(Transform transform)
 	{
-		moveDirection.Set(MoveX.Value, MoveY.Value, MoveZ.Value);
+		moveDirection.Set (MoveX.Value, MoveY.Value, MoveZ.Value);
 		moveDirection = transform.TransformDirection(moveDirection);
 		rotDirection.Set(RotX.Value, RotY.Value, RotZ.Value);
 		transform.Rotate(rotDirection);
